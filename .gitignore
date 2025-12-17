@@ -1,2 +1,9 @@
 node_modules
 .DS_Store
+
+# Node
+node_modules/
+
+# freeCodeCamp/CodeRoad runner temp files
+.freeCodeCamp/test/.cwd
+.freeCodeCamp/test/.next_command

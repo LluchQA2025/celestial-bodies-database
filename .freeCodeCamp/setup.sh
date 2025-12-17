@@ -1,6 +1,6 @@
-sudo cp /workspace/project/.freeCodeCamp/.bashrc ~/.bashrc
-sudo cp /workspace/project/.freeCodeCamp/.psqlrc ~/.psqlrc
-sudo cp /workspace/project/.freeCodeCamp/pg_hba.conf /etc/postgresql/12/main/pg_hba.conf
+sudo cp /workspaces/celestial/.freeCodeCamp/.bashrc ~/.bashrc
+sudo cp /workspaces/celestial/.freeCodeCamp/.psqlrc ~/.psqlrc
+sudo cp /workspaces/celestial/.freeCodeCamp/pg_hba.conf /etc/postgresql/12/main/pg_hba.conf
 sudo touch /workspace/.bash_history
 sudo chmod 777 /workspace/.bash_history
 sudo chown -R postgres:postgres /var/lib/postgresql/12/main
