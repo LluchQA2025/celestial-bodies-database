@@ -1,6 +1,6 @@
 # Node
 node_modules/
 
-# CodeRoad / freeCodeCamp temp files
+# freeCodeCamp / CodeRoad temp files
 .freeCodeCamp/test/.cwd
 .freeCodeCamp/test/.next_command
